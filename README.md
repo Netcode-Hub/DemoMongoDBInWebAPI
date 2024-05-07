@@ -1,4 +1,7 @@
-# Mastering MongoDB: Seamless Integration in .NET 8 Web API for Effortless CRUD Operations
+# Mastering MongoDB: Seamless Integration in .NET 8 Web API for Effortless CRUD Operations 
+
+# Youtube Banner | https://youtu.be/Dj9eJZhKu80
+![Screenshot 2024-05-07 074911](https://github.com/Netcode-Hub/DemoMongoDBInWebAPI/assets/110794348/09d2d89c-1cae-41e4-a045-3c4eed465132)
 
 # Create .NET 8 Web API project
 ![image](https://github.com/Netcode-Hub/DemoMongoDBInWebAPI/assets/110794348/79822156-df84-4834-a85b-1b1afb37cca1)
